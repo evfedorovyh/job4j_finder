@@ -1,0 +1,2 @@
+C:\Users\jhon2\IdeaProjects\job4j_design\src\main\java\ru\job4j\io\objectstream\Car.java
+C:\Users\jhon2\IdeaProjects\job4j_tracker\src\main\java\ru\job4j\stream\Car.java
